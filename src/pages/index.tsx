@@ -1,6 +1,7 @@
+import Head from 'next/head';
 import Header from '@/components/Header';
 import Main from '@/components/Main';
-import Head from 'next/head';
+import MonetizationOptions from '@/components/Sections/MonetizationOptions';
 
 export default function Home() {
 	return (
@@ -14,6 +15,7 @@ export default function Home() {
 				<Header />
 				<Main />
 			</div>
+			<MonetizationOptions />
 		</>
 	);
 }

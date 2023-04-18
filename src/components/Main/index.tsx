@@ -18,7 +18,7 @@ const Main: React.FC = () => {
 				<h1 className="text-black text-5xl font-bold leading-[60px] max-w-2xl my-2">
 					The first crypto advertising network in the market{' '}
 				</h1>
-				<p className="font-inter mb-6">
+				<p className="font-inter mb-6 text-lightGray">
 					Do you have your own website, blog, or online media?
 					<br /> Become our partner and start earning on advertising right now!
 				</p>
