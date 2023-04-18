@@ -11,6 +11,7 @@ module.exports = {
 				blue: '#03A9F4',
 				black: '#12101C',
 				lightGray: '#343240',
+				lightRed: '#E2D7D7',
 			},
 			fontFamily: {
 				poppins: ['Poppins', 'sans-serif'],
@@ -18,6 +19,7 @@ module.exports = {
 			},
 			backgroundImage: {
 				'main-section': "url('/images/mainBackground.png')",
+				advertisingBg: "url('/images/advertisingBg.png')",
 			},
 		},
 	},
