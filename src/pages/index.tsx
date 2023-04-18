@@ -12,7 +12,7 @@ export default function Home() {
 				<meta name="description" content="A-ADS Application" />
 				<meta name="keywords" content="Next.js, React, TypeScript" />
 			</Head>
-			<div className="bg-main-section bg-right bg-no-repeat w-full">
+			<div className="bg-main-section bg-right bg-no-repeat w-full bg-cover">
 				<Header />
 				<Main />
 			</div>

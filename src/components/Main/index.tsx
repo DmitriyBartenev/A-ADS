@@ -4,13 +4,12 @@ import Image from 'next/image';
 import Stats from './Stats';
 
 import { images } from '../../../public';
-import { Button } from '../ui/Button';
 
 const Main: React.FC = () => {
 	const { Advertising } = images;
 
 	return (
-		<main className="flex justify-center items-start pl-40 pr-20 pt-16 pb-24">
+		<main className="flex justify-start xl:justify-center items-start pl-7 pr-16 xl:pl-40 xl:pr-20 pt-16 pb-0 sm:pb-24">
 			<div>
 				<p className="text-blue leading-[32px] text-lg">
 					Earn crypto with A-ADS
@@ -23,17 +22,15 @@ const Main: React.FC = () => {
 					<br /> Become our partner and start earning on advertising right now!
 				</p>
 				<Stats />
-				<Button title="Start Now" />
 			</div>
-			<div>
-				<Image
-					src={Advertising}
-					alt="Crypto Advertising"
-					width={516}
-					height={318}
-					draggable={false}
-				/>
-			</div>
+			<Image
+				src={Advertising}
+				alt="Crypto Advertising"
+				width={516}
+				height={318}
+				draggable={false}
+				className="hidden xl:block"
+			/>
 		</main>
 	);
 };

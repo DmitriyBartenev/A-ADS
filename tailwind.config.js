@@ -13,6 +13,12 @@ module.exports = {
 				lightGray: '#343240',
 				lightRed: '#E2D7D7',
 			},
+			screens: {
+				sm: '640px',
+				md: '768px',
+				lg: '1024px',
+				xl: '1280px',
+			},
 			fontFamily: {
 				poppins: ['Poppins', 'sans-serif'],
 				inter: ['Inter', 'sans-serif'],
