@@ -1,6 +1,2 @@
-<h3>Installation and Usage</h3>
-<ol>
-  <li>Clone the repository</li>
-  <li>Run `npm install` to install the dependencies</li>
-  <li>Run `npm run dev` to start the development server</li>
-</ol>
+# A-ADS - Advertisement Platform
+A-ADS is a modern advertisement platform built with React.js and Next.js. It allows advertisers to place their ads on websites and publishers to earn money by displaying ads on their websites.
