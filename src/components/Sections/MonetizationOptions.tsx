@@ -13,9 +13,9 @@ const MonetizationOptions: React.FC = () => {
           can also earn from the pool of our active advertisers.
         </p>
         <p>
-          Our advertising model doesn&rsquo;t limit your earnings by clicks and
-          impressions, but expands it with advertiser&rsquo;s budgets they eager
-          to spend on your website.
+          Our advertising model doesn't limit your earnings by clicks and
+          impressions, but expands it with advertiser's budgets they eager to
+          spend on your website.
         </p>
       </div>
     </div>
