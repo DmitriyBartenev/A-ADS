@@ -1,4 +1,4 @@
-# A-ADS - Advertisement Platform
+# Test task for an open vacancy of a Frontend develop in A-ADS - Advertisement Platform
 A-ADS is a modern advertisement platform built with React.js and Next.js. It allows advertisers to place their ads on websites and publishers to earn money by displaying ads on their websites.
 ## Installation
 
@@ -9,9 +9,5 @@ To install A-ADS, you will need Node.js and npm installed on your system. Once y
 
 ## Usage 
 
-To use this application, simply open it in your web browser and interact with the user interface. The data will be fetched from the API using the custom hook.
-
-## Contributing
-
-If you would like to contribute to this application, please fork the repository and submit a pull request. We welcome contributions of all kinds, from bug fixes to new features.
+To use this application, simply open it in your web browser and interact with the user interface. The data will be fetched from the API. 
  
